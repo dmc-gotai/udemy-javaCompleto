@@ -12,14 +12,14 @@ public class Exercicio_06 {
         Scanner sc = new Scanner(System.in);
 
         System.out.printf("CODIGO DO ITEM: ");
-        int primeiroItemCodigo = sc.nextInt();
+        //int primeiroItemCodigo = sc.nextInt();
         System.out.printf("NUMERO DE ITENS: ");
         int quantidadePrimeiroItem = sc.nextInt();
         System.out.printf("VALOR POR ITEM: ");
         double valorUnitarioPrimeiroItem = sc.nextDouble();
 
         System.out.printf("CODIGO DO ITEM: ");
-        int segundoItemCodigo = sc.nextInt();
+        //int segundoItemCodigo = sc.nextInt();
         System.out.printf("NUMERO DE ITENS: ");
         int quantidadeSegundoItem = sc.nextInt();
         System.out.printf("VALOR POR ITEM: ");
