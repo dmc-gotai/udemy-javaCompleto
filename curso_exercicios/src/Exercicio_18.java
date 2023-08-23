@@ -37,6 +37,7 @@ public class Exercicio_18 {
                     break;
             }
         }
+        sc.close();
 
         System.out.printf("RESULTADO PARCIAL%n%s %d%n%s %d%n%s %d%n", "ALCOOL: ", alcool, "DIESEL: ", diesel, "GASOLINA", gasolina);
     }
